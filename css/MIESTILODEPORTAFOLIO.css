@@ -1,0 +1,61 @@
+
+.iconos_social{
+    color: rgb(49, 9, 86);
+}
+#Nombre_Foto{
+    background-image: url("../img/portafolio Amy foto.jpeg");
+}
+
+.blanco{
+    color: aliceblue;
+    
+}
+
+.presentacion{
+    background-color:#383a73;
+    padding: 50px 0px;
+}
+
+.topbar{
+    background-color: #100e40;
+}
+.menu{
+    background-color: #383a73;
+}
+.rosita{
+    color: #d8a9b1;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.Amy{
+    padding: 0px 500px;
+}
+
+.mora{
+   color:#732b59 ;
+}
+
+.titulo_about_me{
+    padding: 20px;
+
+}
+
+.indigo{
+    color: #100e40;
+}
+
+.redondeado{
+    background-color:#b9d0f8;
+    border-radius: 35px;
+    display: inline-block;
+    font-size: 15px;
+    padding: 10px;
+    
+}
+.job{
+    padding-top: 50px;
+}
+
